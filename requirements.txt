@@ -1,0 +1,11 @@
+pymongo
+pandas
+nltk
+matplotlib
+numpy
+torch
+transformers
+scipy
+chromadb
+sklearn
+bert_score

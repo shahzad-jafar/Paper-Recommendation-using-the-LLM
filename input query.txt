@@ -1,0 +1,5 @@
+LIBSVM: A library for support vector machines
+Support-Vector Networks
+A Tutorial on Support Vector Machines for Pattern Recognition
+Gene Selection for Cancer Classification using Support Vector Machines
+Identification and control of dynamical systems using neural networks
